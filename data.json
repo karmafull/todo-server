@@ -1,0 +1,39 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "tasks": [
+            {
+                "id": 1,
+                "desc": "task 1",
+                "done": true
+            },
+            {
+                "id": 2,
+                "desc": "new description",
+                "done": "true"
+            },
+            {
+                "id": 3,
+                "desc": "task 3",
+                "done": false
+            }
+        ]
+    },
+    {
+        "username": "nivanda",
+        "password": "lol",
+        "tasks": [
+            {
+                "id": 2,
+                "desc": "new description",
+                "done": "true"
+            }
+        ]
+    },
+    {
+        "username": "nivanda2",
+        "password": "lol",
+        "tasks": []
+    }
+]
